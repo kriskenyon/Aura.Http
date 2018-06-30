@@ -34,6 +34,7 @@ class Request extends Message
     const METHOD_POST       = 'POST';
     const METHOD_PUT        = 'PUT';
     const METHOD_TRACE      = 'TRACE';
+    const METHOD_PATCH      = 'PATCH';
 
     /**
      * WebDAV method constants.
